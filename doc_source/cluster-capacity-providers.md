@@ -25,7 +25,7 @@ The *weight* value designates the relative percentage of the total number of lau
 
 Your launch type determintes the available capacity provider types\.
 
-For the Fargate launch type, the following predefined capacity providers are availble:
+For the Fargate launch type, the following predefined capacity providers are available:
 + Fargate
 + Fargate Spot
 
